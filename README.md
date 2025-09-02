@@ -1,4 +1,4 @@
-# Command-Line Calculator with History Management
+# Calculator with History Management
 
 The **Command-Line Calculator with History Management** is a Python-based project designed to perform both simple and advanced mathematical operations. Unlike traditional calculators that only handle two numbers, this system allows users to enter multi-digit numbers, decimals, and multiple operands in one expression. It follows the **BODMAS rule**, ensuring accurate results, and supports parentheses for grouping.  
 
